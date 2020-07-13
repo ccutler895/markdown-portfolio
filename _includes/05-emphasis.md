@@ -1,5 +1,5 @@
 # Attributes
-- *happy*
-- -lucky-
-- *healthy*
-- -clumsy-
+- **happy**
+- --lucky--
+- **healthy**
+- --clumsy--
